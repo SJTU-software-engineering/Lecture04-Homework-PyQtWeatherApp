@@ -1,0 +1,40 @@
+[
+  {
+    "case": "forecast_today",
+    "status": "PASS",
+    "result": {
+      "city": {
+        "name": "北京",
+        "latitude": 39.9042,
+        "longitude": 116.4074
+      },
+      "day": "2026-10-10",
+      "weather_code": 3,
+      "temperature_min": 15.5,
+      "temperature_max": 26.5,
+      "precipitation": 0.0,
+      "wind_speed_max": 7.9,
+      "source": "Open-Meteo 天气预报",
+      "is_demo": false
+    }
+  },
+  {
+    "case": "archive_historical",
+    "status": "PASS",
+    "result": {
+      "city": {
+        "name": "北京",
+        "latitude": 39.9042,
+        "longitude": 116.4074
+      },
+      "day": "2020-01-01",
+      "weather_code": 0,
+      "temperature_min": -10.7,
+      "temperature_max": -0.7,
+      "precipitation": 0.0,
+      "wind_speed_max": 7.9,
+      "source": "Open-Meteo 历史再分析数据",
+      "is_demo": false
+    }
+  }
+]
