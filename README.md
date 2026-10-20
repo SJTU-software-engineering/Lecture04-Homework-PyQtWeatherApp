@@ -1,6 +1,8 @@
-# PyQt 日期天气查询
+# 第四讲课后作业：PyQt 日期天气查询
 
 Python 3.10+ / PyQt6 中文桌面应用，选择城市及日期后展示每日天气、最低/最高温、降水总量、最大风速。默认查询真实网络服务，也可手动启用明确标注的离线演示模式。
+
+公开仓库：[第四讲课后作业：PyQt 日期天气查询](https://github.com/SJTU-software-engineering/Lecture04-Homework-PyQtWeatherApp)。
 
 ## 安装与运行（Windows PowerShell）
 
